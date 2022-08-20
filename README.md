@@ -1,1 +1,3 @@
-My first readme
+MY FIRST README 
+
+Do hard things. 
